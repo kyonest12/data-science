@@ -1,0 +1,20 @@
+temp: Nhiệt độ
+dew: độ ẩm của không khí
+humidity: độ ẩm tương đối (theo %)
+Windgust: tốc độ gió tức thì tại một vị trí cụ thể, Nếu không đáng kể với tốc độ gió chung, thì được bỏ trống
+Windspped: tốc độ gió ổn định (trung bình trong khoảng từ 1 đến 2 phút trước đó)
+Winddir: chỉ số chỉ hướng từ nơi mà gió thổi đến
+	Nếu "winddir" là 0 -> 90, gió đang thổi từ phía bắc 
+	Nếu "winddir" là 90 -> 180, gió đang thổi từ phía đông
+	Nếu "winddir" là 180 -> 270, gió đang thổi từ phía nam 
+	Nếu "winddir" là 270 -> 360, gió đang thổi từ phía tây
+Sealevelpressure: áp suất không khí
+cloudcover: Tỷ lệ phần trăm của diện tích bầu trời mà đám mây chiếm giữ so với tổng diện tích bầu trời.
+visibility: Khoảng cách có thể nhìn thấy trong ánh sáng ban ngày
+solarradiation: Lượng năng lượng mặt trời (W/m2)
+solarEnergy: Tổng lượng năng lượng mặt trời trong 1 khoảng thời gian 
+uvindex: Mức độ tia cực tím
+Server Risk: Mức độ nghiêm trọng của thời tiết
+conditions: Một đoạn text ngắn về tình trạng thời tiết
+icon: hình ảnh icon hiển thị thời tiết
+stations: trạm thời tiết

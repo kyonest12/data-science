@@ -1,0 +1,1 @@
+collect -> preprocess -> EDA & Vizualize -> models -> feedback

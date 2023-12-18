@@ -1,0 +1,16 @@
+{
+  "min_values": {
+    "temp": 7.0,
+    "dew": -5.7,
+    "windgust": 0.0,
+    "windspeed": 0.0,
+    "solarenergy": 0.0
+  },
+  "max_values": {
+    "temp": 39.6,
+    "dew": 29.4,
+    "windgust": 108.0,
+    "windspeed": 37.1,
+    "solarenergy": 3.7
+  }
+}

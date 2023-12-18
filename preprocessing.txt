@@ -1,0 +1,3 @@
+- Điền giá trị còn trống: windgust == windspeed if windgust rỗng
+- Giảm chiều dữ liệu: Bỏ các trường: name, snow, snowdepth, stations, icon, condition, precip, precippro
+- Chuẩn hóa: UVindex / 10, 
